@@ -2,16 +2,16 @@
 
 <html lang="es">
     <head>
-        <title>Ejercicio 2: marcar una tabla</title>
+        <title>Ejercicio DAW05: rellena una tabla y marca una</title>
         <meta charset="UTF-8">
-        <meta name="author" content="Juan Francisco Vico Martinez">
+        <meta name="author" content="DAW2021 Juan Francisco Vico Martinez">
         
     </head>
     <body>
         <?php
 			/**
 			*  
-			*  Dibuja un tablero  n x m lados
+			*  Dibuja un tablero de color verde n x m lados y marca uno de 				*  color azul
 			*  Script que proporcionando 3 valores como parámetros
 			*  de entrada via GET, dibuja un tablero de color verde
 			*  un cuadrado de color azul.
